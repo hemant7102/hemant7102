@@ -1,15 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hemant%20Narute&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Data%20Analyst%20%7C%20Data%20Science%20Professional&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hemant%20Narute&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Data%20Analyst%20%7C%20Data%20Science%20Professional%20%7C%20India&descAlignY=55&descSize=16" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Transforming+raw+data+into+actionable+insights;Learning+in+public+%7C+Building+real-world+projects;Python+%7C+SQL+%7C+Machine+Learning+%7C+Deep+Learning;Open+to+Data+Analyst+%2F+Data+Scientist+roles" alt="Typing SVG" />
 </a>
-
-<br/>
-
-<img src="https://img.shields.io/badge/Location-India-6D28D9?style=for-the-badge&logo=googlemaps&logoColor=white"/>
-<img src="https://img.shields.io/badge/Focus-Data%20Science-8B5CF6?style=for-the-badge&logo=databricks&logoColor=white"/>
 
 <br/><br/>
 
@@ -20,9 +15,9 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=hemant7102&label=Profile+Views&color=8b5cf6&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/hemant7102?label=Followers&style=for-the-badge&color=7c3aed&logo=github"/>
-<img src="https://img.shields.io/github/stars/hemant7102?label=Stars&style=for-the-badge&color=6d28d9"/>
+<img src="https://komarev.com/ghpvc/?username=hemant7102&label=Profile+Views&color=8b5cf6&style=flat-square"/>
+<img src="https://img.shields.io/github/followers/hemant7102?label=Followers&style=flat-square&color=7c3aed&logo=github"/>
+<img src="https://img.shields.io/github/stars/hemant7102?label=Stars&style=flat-square&color=6d28d9"/>
 
 </div>
 
@@ -82,7 +77,21 @@ I'm a data-driven problem solver with a strong foundation in **Python, SQL, and 
 
 **Tools & Platforms**
 <br/>
-<img src="https://skillicons.dev/icons?i=git,github,jupyter,pycharm&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,jupyter&theme=dark"/>
+
+**Cloud & MLOps**
+<br/>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes&theme=dark"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/AWS%20S3-232F3E?style=flat-square&logo=amazons3&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS%20SageMaker-232F3E?style=flat-square&logo=amazonsagemaker&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS%20Lambda-232F3E?style=flat-square&logo=awslambda&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS%20ECR-232F3E?style=flat-square&logo=amazonecs&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS%20ECS-232F3E?style=flat-square&logo=amazonecs&logoColor=white"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/DVC-945DD6?style=flat-square&logo=dvc&logoColor=white"/>
+<img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/>
 
 <br/>
 
