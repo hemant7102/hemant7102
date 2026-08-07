@@ -8,7 +8,9 @@
 
 <br/><br/>
 
-**Open To:** Data Analyst • Data Scientist • Machine Learning Intern roles, freelance analytics projects, and collaboration on open-source data projects.
+<p align="center" style="font-size:18px; max-width:750px; margin:auto;">
+<b style="color:#A78BFA;">Open To:</b> Data Analyst • Data Scientist • Machine Learning Intern roles, freelance analytics projects, and collaboration on open-source data projects.
+</p>
 
 </div>
 
