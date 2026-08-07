@@ -249,7 +249,7 @@ Learning:
 ## 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=hemant7102&theme=discord&no-frame=true&column=7&margin-w=8&margin-h=8"/>
+<img src="https://github-profile-trophy-fork-two.vercel.app/?username=hemant7102&theme=discord&no-frame=true&column=7&margin-w=8&margin-h=8"/>
 </div>
 
 <br/>
