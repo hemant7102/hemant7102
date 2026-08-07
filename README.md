@@ -3,21 +3,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hemant%20Narute&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Data%20Analyst%20%7C%20Data%20Science%20Professional%20%7C%20India&descAlignY=55&descSize=16" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Transforming+raw+data+into+actionable+insights;Learning+in+public+%7C+Building+real-world+projects;Python+%7C+SQL+%7C+Machine+Learning+%7C+Deep+Learning;Open+to+Data+Analyst+%2F+Data+Scientist+roles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=750&lines=Transforming+raw+data+into+actionable+insights;Learning+in+public+%7C+Building+real-world+projects;Python+%7C+SQL+%7C+Machine+Learning+%7C+Deep+Learning;Open+to+Data+Analyst+%2F+Data+Scientist+roles" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/hemant-narute-282265355"><img src="https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:hemantnarute28@gmail.com"><img src="https://img.shields.io/badge/Email-5B21B6?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://medium.com/@hemantnarute"><img src="https://img.shields.io/badge/Medium-6D28D9?style=for-the-badge&logo=medium&logoColor=white"/></a>
-<a href="https://github.com/hemant7102"><img src="https://img.shields.io/badge/GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white"/></a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=hemant7102&label=Profile+Views&color=8b5cf6&style=flat-square"/>
-<img src="https://img.shields.io/github/followers/hemant7102?label=Followers&style=flat-square&color=7c3aed&logo=github"/>
-<img src="https://img.shields.io/github/stars/hemant7102?label=Stars&style=flat-square&color=6d28d9"/>
+**Open To:** Data Analyst • Data Scientist • Machine Learning Intern roles, freelance analytics projects, and collaboration on open-source data projects.
 
 </div>
 
@@ -34,8 +25,6 @@ I'm a data-driven problem solver with a strong foundation in **Python, SQL, and 
 - 🧠 Foundational knowledge of **Deep Learning** — Neural Networks, CNNs
 - 📊 Comfortable building end-to-end analysis, from raw data to a shareable dashboard
 - 🎯 Actively preparing for **Data Analyst / Data Scientist** roles
-
-**Open To:** Data Analyst • Data Scientist • Machine Learning Intern roles, freelance analytics projects, and collaboration on open-source data projects.
 
 <br/>
 
@@ -281,6 +270,12 @@ Learning:
 <a href="https://github.com/hemant7102"><img src="https://img.shields.io/badge/GitHub-6D28D9?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://medium.com/@hemantnarute"><img src="https://img.shields.io/badge/Medium-6D28D9?style=for-the-badge&logo=medium&logoColor=white"/></a>
 <a href="https://wa.me/918010126423"><img src="https://img.shields.io/badge/WhatsApp-6D28D9?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=hemant7102&label=Profile+Views&color=8b5cf6&style=flat-square"/>
+<img src="https://img.shields.io/github/followers/hemant7102?label=Followers&style=flat-square&color=7c3aed&logo=github"/>
+<img src="https://img.shields.io/github/stars/hemant7102?label=Stars&style=flat-square&color=6d28d9"/>
 
 </div>
 
