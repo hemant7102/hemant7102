@@ -1,254 +1,127 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:4338CA&height=200&section=header&text=Hemant%20Narute&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20Aspiring%20Data%20Scientist%20%7C%20India&descAlignY=58&descSize=16" width="100%"/>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=900&color=6366F1&center=true&vCenter=true&width=700&lines=Turning+raw+data+into+actionable+insights;Python+%7C+SQL+%7C+Machine+Learning+%7C+Deep+Learning;Building+in+public%2C+one+real-world+project+at+a+time" alt="Typing SVG" />
-</a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&color=0:0f172a,100:1e1b4b&height=180&section=header"/>
 
 <br/>
 
-<p align="center" style="max-width:720px;">
-  <b>Open to:</b> Data Analyst · Data Scientist · Machine Learning Intern roles · freelance analytics projects · open-source collaboration
-</p>
-
-<a href="mailto:hemantnarute28@gmail.com"><img src="https://img.shields.io/badge/Gmail-4338CA?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/hemant-narute-282265355"><img src="https://img.shields.io/badge/LinkedIn-4338CA?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/hemant7102"><img src="https://img.shields.io/badge/GitHub-4338CA?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://medium.com/@hemantnarute"><img src="https://img.shields.io/badge/Medium-4338CA?style=for-the-badge&logo=medium&logoColor=white"/></a>
-<a href="https://wa.me/918010126423"><img src="https://img.shields.io/badge/WhatsApp-4338CA?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-
-</div>
-
-<br/>
-
-## About Me
-
-I'm a data-driven problem solver with a strong foundation in **Python, SQL, and data analysis**, focused on turning messy, real-world data into decisions people can act on.
-
-- 🔍 Hands-on experience with **EDA, dashboards, and data visualization**
-- 🤖 Practical exposure to **Machine Learning** — Regression, Classification, Clustering
-- 🧠 Foundational knowledge of **Deep Learning** — Neural Networks, CNNs
-- 📊 Comfortable building end-to-end analysis, from raw data to a shareable dashboard
-- 🎯 Actively preparing for **Data Analyst / Data Scientist** roles
-
-<br/>
-
-## Tech Stack
-
-<table>
+<table width="100%">
 <tr>
-<td valign="top" width="50%">
+<td width="70%" valign="top">
 
-**Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=py,java,c,cpp&theme=dark"/>
+# Hemant Narute
+### Data Analyst · Aspiring Data Scientist
 
-**Databases**
-<br/>
-<img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark"/>
+I turn messy, real-world data into decisions people can act on — with a foundation in Python, SQL, and applied machine learning, and hands-on exposure to deep learning and GenAI tooling.
 
-**Tools & Platforms**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,jupyter&theme=dark"/>
-
-**Cloud & MLOps**
-<br/>
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes&theme=dark"/>
+**Open to:** Data Analyst · Data Scientist · ML Intern roles · freelance analytics · open-source collaboration
 
 </td>
-<td valign="top" width="50%">
+<td width="30%" valign="top" align="right">
 
-**ML & Data**
+📍 India
 <br/>
-<img src="https://img.shields.io/badge/scikit--learn-4338CA?style=flat-square&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/XGBoost-4338CA?style=flat-square"/>
-<img src="https://img.shields.io/badge/Pandas-4338CA?style=flat-square&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-4338CA?style=flat-square&logo=numpy&logoColor=white"/>
-
-**Deep Learning**
+📧 [hemantnarute28@gmail.com](mailto:hemantnarute28@gmail.com)
 <br/>
-<img src="https://img.shields.io/badge/TensorFlow-4F46E5?style=flat-square&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Keras-4F46E5?style=flat-square&logo=keras&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-4F46E5?style=flat-square&logo=pytorch&logoColor=white"/>
-
-**Visualization & BI**
+🔗 [LinkedIn](https://www.linkedin.com/in/hemant-narute-282265355)
 <br/>
-<img src="https://img.shields.io/badge/Matplotlib-6366F1?style=flat-square"/>
-<img src="https://img.shields.io/badge/Seaborn-6366F1?style=flat-square"/>
-<img src="https://img.shields.io/badge/Streamlit-6366F1?style=flat-square&logo=streamlit&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power%20BI-6366F1?style=flat-square&logo=powerbi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tableau-6366F1?style=flat-square&logo=tableau&logoColor=white"/>
+🐙 [GitHub](https://github.com/hemant7102)
+<br/>
+✍️ [Medium](https://medium.com/@hemantnarute)
+<br/>
+💬 [WhatsApp](https://wa.me/918010126423)
 
 </td>
 </tr>
 </table>
 
-<img src="https://img.shields.io/badge/AWS%20S3-1E1B4B?style=flat-square&logo=amazons3&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS%20SageMaker-1E1B4B?style=flat-square&logo=amazonsagemaker&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS%20Lambda-1E1B4B?style=flat-square&logo=awslambda&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS%20ECR-1E1B4B?style=flat-square&logo=amazonecs&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS%20ECS-1E1B4B?style=flat-square&logo=amazonecs&logoColor=white"/>
-<img src="https://img.shields.io/badge/DVC-1E1B4B?style=flat-square&logo=dvc&logoColor=white"/>
-<img src="https://img.shields.io/badge/PySpark-1E1B4B?style=flat-square&logo=apachespark&logoColor=white"/>
-<img src="https://img.shields.io/badge/Apache%20Spark-1E1B4B?style=flat-square&logo=apachespark&logoColor=white"/>
+<br/>
+
+## What I Do
+
+| | |
+|---|---|
+| 🔍 **Analysis** | EDA, data cleaning, dashboards, visual storytelling |
+| 🤖 **Machine Learning** | Regression, classification, clustering, feature engineering, model evaluation |
+| 🧠 **Deep Learning** | Neural networks, CNN fundamentals |
+| 🗣️ **GenAI** | RAG pipelines, LangChain, LangGraph, semantic search |
+| 📊 **Delivery** | End-to-end — raw data to a shareable, decision-ready dashboard |
 
 <br/>
 
-## AI / ML Expertise
+## Stack
 
-| Domain | Proficiency | Details |
-|---|:---:|---|
-| Machine Learning | ●●●●● | Regression, Classification, Clustering, Feature Engineering, Model Evaluation |
-| Exploratory Data Analysis | ●●●●● | Data cleaning, feature analysis, visual storytelling |
-| SQL & Data Querying | ●●●●● | Advanced querying, joins, aggregation |
-| Deep Learning | ●●●●○ | Neural Networks, CNN fundamentals |
-| Natural Language Processing | ●●●●○ | Text pipelines, embeddings, semantic understanding |
-| RAG (Retrieval-Augmented Generation) | ●●●●○ | Document embeddings, semantic search, context retrieval |
-| LangChain | ●●●○○ | Building LLM-powered applications & pipelines |
-| LangGraph | ●●●○○ | Multi-step agentic workflow design |
+**Languages**   `Python` `Java` `C` `C++`
+
+**Data & ML**   `Pandas` `NumPy` `scikit-learn` `XGBoost` `TensorFlow` `Keras` `PyTorch`
+
+**Databases**   `MySQL` `PostgreSQL`
+
+**Visualization & BI**   `Matplotlib` `Seaborn` `Streamlit` `Power BI` `Tableau`
+
+**Cloud & MLOps**   `AWS S3` `SageMaker` `Lambda` `ECR/ECS` `Docker` `Kubernetes` `DVC` `PySpark` `Spark`
+
+**Tools**   `Git` `GitHub` `VS Code` `PyCharm` `Jupyter`
 
 <br/>
 
-## Featured Projects
+## Proficiency
 
-<table>
-<tr>
-<td width="50%" valign="top">
+```
+Machine Learning              ████████████████████  Expert
+Exploratory Data Analysis     ████████████████████  Expert
+SQL & Data Querying           ████████████████████  Expert
+Deep Learning                 ████████████████░░░░  Advanced
+NLP                           ████████████████░░░░  Advanced
+RAG                           ████████████████░░░░  Advanced
+LangChain                     ████████████░░░░░░░░  Intermediate
+LangGraph                     ████████████░░░░░░░░  Intermediate
+```
 
-### 📊 Streamlit Dashboard
-Interactive dashboard built with Python & Streamlit for exploring and visualizing data in real time — includes a full cleaning and preprocessing pipeline.
+<br/>
 
-`Python` `Streamlit` `Pandas` `Matplotlib/Seaborn`
+## Projects
 
-**[View Repository →](https://github.com/hemant7102/streamlit-dashboard)**
+**[RAG Customer Support Assistant](https://github.com/hemant7102/rag-customer-support-assistant.git)** · [demo video](https://drive.google.com/file/d/195A6zaF0ByKtTn-Cz-hvwZGFPkQQjbiP/view?usp=sharing)
+Retrieval-augmented assistant that pairs document embeddings with semantic search, grounding responses in retrieved context to reduce hallucination. Built with LangChain.
 
-</td>
-<td width="50%" valign="top">
+**[Meta Ads Performance Dashboard](https://github.com/hemant7102/Meta-Ad-Performance-Dashboard.git)** · [live dashboard](https://app.powerbi.com/groups/me/reports/3de60284-8f04-4b63-9fd2-4c8c98a6bfb5/a95f1cdcb42f265f54ce?experience=power-bi)
+Power BI dashboard turning raw Meta ad exports into a clean reporting model tracking impressions, clicks, CTR, conversions, and spend.
 
-### 📱 Smartphone Data Analysis
-End-to-end EDA project uncovering pricing and specification patterns across smartphone models, from raw CSV to insight.
+**[IPL Analytics Web App](https://github.com/hemant7102/IPL-Analytics-Web-App.git)** · [live app](https://ipl-analytics-web-appgit-3oqffbjdfen4vgktsjardc.streamlit.app/)
+Deployed Streamlit app for exploring historical IPL data with interactive player- and team-level statistics.
 
-`Python` `Pandas` `NumPy` `Matplotlib` `Seaborn`
+**[Smartphone Data Analysis](https://github.com/hemant7102/smartphone-data-analysis)**
+Full EDA workflow — cleaning, feature analysis, and correlation study — uncovering pricing patterns across smartphone specs.
 
-**[View Repository →](https://github.com/hemant7102/smartphone-data-analysis)**
+**[Streamlit Dashboard](https://github.com/hemant7102/streamlit-dashboard)**
+General-purpose interactive dashboard with a reusable cleaning and preprocessing pipeline for fast, at-a-glance exploration.
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 RAG Customer Support Assistant
-A Retrieval-Augmented Generation assistant combining document embeddings and semantic search to answer customer queries accurately and reduce hallucination.
-
-`LangChain` `Python` `Vector Search`
-
-**[Repository →](https://github.com/hemant7102/rag-customer-support-assistant.git)** · **[Demo Video →](https://drive.google.com/file/d/195A6zaF0ByKtTn-Cz-hvwZGFPkQQjbiP/view?usp=sharing)**
-
-</td>
-<td width="50%" valign="top">
-
-### 📈 Meta Ads Performance Dashboard
-Interactive Power BI dashboard tracking Facebook/Instagram ad performance — impressions, clicks, CTR, conversions, and spend — from structured raw exports.
-
-`Power BI` `Data Modeling`
-
-**[Repository →](https://github.com/hemant7102/Meta-Ad-Performance-Dashboard.git)** · **[Live Dashboard →](https://app.powerbi.com/groups/me/reports/3de60284-8f04-4b63-9fd2-4c8c98a6bfb5/a95f1cdcb42f265f54ce?experience=power-bi)**
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🏏 IPL Analytics Web App
-Web application analyzing historical IPL cricket data with interactive, real-time player and team-level visualizations. Deployed and publicly accessible.
-
-`Python` `Streamlit` `Data Visualization`
-
-**[Repository →](https://github.com/hemant7102/IPL-Analytics-Web-App.git)** · **[Live Demo →](https://ipl-analytics-web-appgit-3oqffbjdfen4vgktsjardc.streamlit.app/)**
-
-</td>
-<td width="50%" valign="top">
-
-### 🌐 Personal Portfolio Website
-A 5-page portfolio presenting role-tailored resumes, technical writing, and project work — with 4 dynamic resume tabs for Data Scientist, Data Analyst, ML Engineer, and GenAI Engineer roles.
-
-`React` `Design System` `Formspree`
-
-**Repository:** *add link* · **Live Site:** *add link*
-
-</td>
-</tr>
-</table>
+**Personal Portfolio Website** — *repo / live link to add*
+5-page React portfolio with 4 role-tailored resume tabs (Data Scientist, Data Analyst, ML Engineer, GenAI Engineer) and a no-backend contact form.
 
 <br/>
 
 ## Currently Learning
 
-```yaml
-focus:
-  - GenAI tooling & agentic workflows (LangChain, LangGraph)
-```
+GenAI tooling and agentic workflow design — deepening LangChain and LangGraph work beyond the RAG project above.
 
 <br/>
 
-## Career Goals
-
-- Build strong, portfolio-ready data projects
-- Sharpen analytical & problem-solving skills
-- Secure a role as a Data Analyst / Data Scientist
-
-<br/>
-
-## GitHub Analytics
+## GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=hemant7102&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=4F46E5&text_color=C9D1D9" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hemant7102&theme=tokyonight&hide_border=true&background=0D1117&ring=4F46E5&fire=6366F1&currStreakLabel=6366F1" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=hemant7102&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B8FF7&icon_color=6366F1&text_color=C9D1D9" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hemant7102&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=8B8FF7&currStreakLabel=8B8FF7" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemant7102&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9" width="48%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hemant7102&theme=react-dark&hide_border=true&bg_color=0D1117&color=8B8FF7&line=6366F1&point=C4B5FD" width="90%"/>
 
 </div>
 
 <br/>
 
-## GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy-fork-two.vercel.app/?username=hemant7102&theme=discord&no-frame=true&column=7&margin-w=8&margin-h=8"/>
-</div>
-
-<br/>
-
-## Contribution Activity
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hemant7102&theme=react-dark&hide_border=true&bg_color=0D1117&color=6366F1&line=4F46E5&point=C4B5FD"/>
-</div>
-
-<br/>
-
-## Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/hemant7102/hemant7102/output/github-contribution-grid-snake-dark.svg"/>
-</div>
-
-> To activate the snake animation, add the [snk GitHub Action](https://github.com/Platane/snk) workflow to this repo — it generates the SVG above automatically on a schedule.
-
-<br/>
-
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=hemant7102&label=Profile+Views&color=4F46E5&style=flat-square"/>
-<img src="https://img.shields.io/github/followers/hemant7102?label=Followers&style=flat-square&color=4338CA&logo=github"/>
-<img src="https://img.shields.io/github/stars/hemant7102?label=Stars&style=flat-square&color=312E81"/>
-
-<br/><br/>
-
-*"Turning data into decisions, one project at a time."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:4338CA&height=110&section=footer" width="100%"/>
+<sub>Profile views: <img src="https://komarev.com/ghpvc/?username=hemant7102&color=6366F1&style=flat-square" height="16"/> · Followers: <img src="https://img.shields.io/github/followers/hemant7102?style=flat-square&color=6366F1&logo=github&label=" height="16"/> · Stars: <img src="https://img.shields.io/github/stars/hemant7102?style=flat-square&color=6366F1&label=" height="16"/></sub>
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&color=0:1e1b4b,100:0f172a&height=100&section=footer"/>
